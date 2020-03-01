@@ -7,6 +7,17 @@
   height: 42px;
   min-width: 1024px;
 }
+body> header{
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+body> main{
+  margin-top: 42px;
+}
+.greytable .Leftaside{
+  position: fixed;
+}
 .facebook i{
   color: white;
   font-size: 28px;
